@@ -1,0 +1,7 @@
+{
+  "name": "Class Hub",
+  "short_name": "ClassHub",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#ffffff"
+}
